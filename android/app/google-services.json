@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1059119671814",
+    "project_id": "worthy-miles",
+    "storage_bucket": "worthy-miles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059119671814:android:a8cee8e4a98f8bc7e83187",
+        "android_client_info": {
+          "package_name": "com.example.worthymiles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059119671814-eb0s4tvuhfhr4qcotkblm59iu4rjjudm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.worthymiles",
+            "certificate_hash": "7ddac809df41d79b7f76b068fdc683dd33c68172"
+          }
+        },
+        {
+          "client_id": "1059119671814-r5qg8sj3m3pacgk5dip7ds100tir1f6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdZZw7ShAEsRfCJ2BE7aO3iCSekxauKHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059119671814-r5qg8sj3m3pacgk5dip7ds100tir1f6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
